@@ -39,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Binary Search
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamshi533/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

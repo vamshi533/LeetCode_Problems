@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vamshi533/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/vamshi533/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/vamshi533/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

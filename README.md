@@ -62,6 +62,7 @@
 | ------- |
 | [0135-candy](https://github.com/vamshi533/LeetCode_Problems/tree/master/0135-candy) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vamshi533/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
 ## String
 |  |
@@ -71,6 +72,7 @@
 | [0006-zigzag-conversion](https://github.com/vamshi533/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vamshi533/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,4 +116,5 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vamshi533/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->

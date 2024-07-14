@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/vamshi533/LeetCode_Problems/tree/master/0135-candy) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -126,4 +127,9 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/vamshi533/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

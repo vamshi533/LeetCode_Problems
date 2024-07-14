@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/vamshi533/LeetCode_Problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/vamshi533/LeetCode_Problems/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -130,6 +131,7 @@
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vamshi533/LeetCode_Problems/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |

@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamshi533/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -75,6 +77,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vamshi533/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vamshi533/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -122,6 +125,7 @@
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vamshi533/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |

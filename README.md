@@ -34,6 +34,7 @@
 | [0137-single-number-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vamshi533/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -143,4 +144,8 @@
 | ------- |
 | [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vamshi533/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->

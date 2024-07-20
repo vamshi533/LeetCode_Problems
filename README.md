@@ -78,6 +78,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vamshi533/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/vamshi533/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/vamshi533/LeetCode_Problems/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/vamshi533/LeetCode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vamshi533/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/vamshi533/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/vamshi533/LeetCode_Problems/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/vamshi533/LeetCode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/vamshi533/LeetCode_Problems/tree/master/2645-pass-the-pillow) |

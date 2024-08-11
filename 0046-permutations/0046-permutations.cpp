@@ -29,17 +29,42 @@
 // };
 
 
+// class Solution{
+//     public:
+//     vector<vector<int>> permute(vector<int>&nums)
+//     {
+//         sort(nums.begin(),nums.end());
+//         vector<vector<int>>ans;
+//         ans.push_back(nums);
+//         while(next_permutation(nums.begin(),nums.end()))
+//         {
+//             ans.push_back(nums);
+//         }
+//         return ans;
+//     }
+// };
+
+
 class Solution{
     public:
-    vector<vector<int>> permute(vector<int>&nums)
+    void combine(int ind,vector<int>&nums,vector<vector<int>>&ans)
     {
-        sort(nums.begin(),nums.end());
-        vector<vector<int>>ans;
-        ans.push_back(nums);
-        while(next_permutation(nums.begin(),nums.end()))
+        if(ind==nums.size())
         {
             ans.push_back(nums);
+            return;
         }
+        for(int i=ind;i<nums.size();i++)
+        {
+            swap(nums[i],nums[ind]);
+            combine(ind+1,nums,ans);
+            swap(nums[i],nums[ind]);
+        }
+    }
+    vector<vector<int>>permute(vector<int>&nums)
+    {
+        vector<vector<int>>ans;
+        combine(0,nums,ans);
         return ans;
     }
 };

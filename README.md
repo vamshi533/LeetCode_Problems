@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vamshi533/LeetCode_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/vamshi533/LeetCode_Problems/tree/master/0135-candy) |
@@ -145,6 +146,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vamshi533/LeetCode_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0090-subsets-ii) |
 ## Matrix

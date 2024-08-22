@@ -78,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamshi533/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vamshi533/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/vamshi533/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/vamshi533/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vamshi533/LeetCode_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vamshi533/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0090-subsets-ii) |

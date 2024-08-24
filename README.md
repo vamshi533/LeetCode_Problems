@@ -37,6 +37,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vamshi533/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -52,11 +53,13 @@
 | [0005-longest-palindromic-substring](https://github.com/vamshi533/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | [0726-number-of-atoms](https://github.com/vamshi533/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Greedy
 |  |

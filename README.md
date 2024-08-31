@@ -165,5 +165,6 @@
 ## Database
 |  |
 | ------- |
+| [1390-average-selling-price](https://github.com/vamshi533/LeetCode_Problems/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vamshi533/LeetCode_Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

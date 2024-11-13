@@ -40,6 +40,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vamshi533/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -54,12 +55,14 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vamshi533/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vamshi533/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vamshi533/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Greedy
 |  |

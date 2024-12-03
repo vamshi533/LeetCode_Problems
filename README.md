@@ -40,6 +40,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2232-adding-spaces-to-a-string](https://github.com/vamshi533/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vamshi533/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/vamshi533/LeetCode_Problems/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2232-adding-spaces-to-a-string](https://github.com/vamshi533/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vamshi533/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vamshi533/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vamshi533/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vamshi533/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2232-adding-spaces-to-a-string](https://github.com/vamshi533/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0415-add-strings](https://github.com/vamshi533/LeetCode_Problems/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/vamshi533/LeetCode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vamshi533/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2232-adding-spaces-to-a-string](https://github.com/vamshi533/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vamshi533/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/vamshi533/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 ## Heap (Priority Queue)

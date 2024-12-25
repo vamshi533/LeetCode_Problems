@@ -35,6 +35,7 @@
 | [0137-single-number-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vamshi533/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vamshi533/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1073-number-of-enclaves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vamshi533/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vamshi533/LeetCode_Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -171,6 +172,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1073-number-of-enclaves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/vamshi533/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Database
 |  |
@@ -178,4 +180,16 @@
 | [1155-product-sales-analysis-iii](https://github.com/vamshi533/LeetCode_Problems/tree/master/1155-product-sales-analysis-iii) |
 | [1390-average-selling-price](https://github.com/vamshi533/LeetCode_Problems/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vamshi533/LeetCode_Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Depth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/vamshi533/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
